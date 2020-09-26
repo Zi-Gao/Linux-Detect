@@ -1,5 +1,4 @@
-# Linux-Detect 
-## Linux系统CPU利用率监控程序
+# Linux-Detect Linux-Detect Linux系统CPU利用率监控程序
 新建一个脚本,取名Detect.sh
 ```bash
 vim Detect.sh
